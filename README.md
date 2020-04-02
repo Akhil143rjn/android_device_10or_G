@@ -4,10 +4,10 @@
 
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 625   |
+| CPU                     | Octa-core 2.2 GHz Cortex-A53      |
+| Chipset                 | Qualcomm MSM8953 Snapdragon 626   |
 | GPU                     | Adreno 506                        |
-| Memory                  | 3 GB                              |
+| Memory                  | 3/4GB                              |
 | Shipped Android Version | 7.1.2                             |
 | Storage                 | 32 GB                             |
 | MicroSD                 | Up to 128 GB                      |
